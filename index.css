@@ -7,7 +7,6 @@
 #titlebar {
 	
 	display: flex;
-	height: 10%;
 	flex-direction: row;
 background: #000;}
 #titlebar #pagetitle {
